@@ -123,42 +123,11 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/nguyenlephong/AI-CoTuong"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenlephong&repo=AI-CoTuong&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AI-CoTuong"></a>
+  <a href="https://github.com/nguyenlephong/AI-CoTuong"><img width="282" src="" alt="AI-CoTuong"></a>
   <a href="https://github.com/nguyenlephong/ThuongMaiDienTu-Frontend"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenlephong&repo=ThuongMaiDienTu-Frontend&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="ThuongMaiDienTu-Frontend"></a>
   <a href="https://github.com/nguyenlephong/build-rental-car"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenlephong&repo=build-rental-car&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="build-rental-car"></a>
  <a href="https://github.com/nguyenlephong/OOD-GameBoom"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenlephong&repo=OOD-GameBoom&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="OOD-GameBoom"></a>
 </p>
-
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/nguyenlephong/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dom's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenlephong&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
-
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dom's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nguyenlephong&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-<p align="center">
-  <a href="https://github.com/nguyenlephong">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nguyenlephong&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyenlephong&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-<!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnhMap0107&theme=algolia" />-->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnhMap0107&theme=gruvbox" />
-</p>
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
