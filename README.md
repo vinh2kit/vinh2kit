@@ -118,17 +118,6 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-## 📕 Top projects I've contributed to
-
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
-  <a href="https://github.com/nguyenlephong/AI-CoTuong"><img width="282" src="" alt="AI-CoTuong"></a>
-  <a href="https://github.com/nguyenlephong/ThuongMaiDienTu-Frontend"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenlephong&repo=ThuongMaiDienTu-Frontend&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="ThuongMaiDienTu-Frontend"></a>
-  <a href="https://github.com/nguyenlephong/build-rental-car"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenlephong&repo=build-rental-car&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="build-rental-car"></a>
- <a href="https://github.com/nguyenlephong/OOD-GameBoom"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenlephong&repo=OOD-GameBoom&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="OOD-GameBoom"></a>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
