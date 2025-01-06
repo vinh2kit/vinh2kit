@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nguyen Thai Vinh</h1>
-<h3 align="center">A Full-Stack Software Engineer</h3>
+<h3 align="center">A Developer</h3>
 
 
 
@@ -11,7 +11,7 @@
 </p>
 
 
-- 🔭  I’m currently working on ...
+- 🔭  I’m currently working on ODH
 - 🌱 I’m currently staying at home with my family and enjoy coding our Platform
 - 💬 Ask me about: Java, NodeJS
 - ⚡ Fun fact: enjoy life with coding is real
